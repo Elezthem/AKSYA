@@ -410,4 +410,4 @@ async def on_ready():
 
 start_time = utcnow()
 
-bot.run('')
+bot.run('you bot token')
